@@ -1,0 +1,27 @@
+{
+  "name": "lidiya_clinic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.4",
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "ioredis": "^5.8.2",
+    "mysql2": "^3.15.3",
+    "sequelize": "^6.37.7",
+    "squeeze": "^0.5.0"
+  }
+}
